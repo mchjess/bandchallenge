@@ -13,4 +13,10 @@ h1 {
   
   p {
     font-size: 0.875em; /* 14px/16=0.875em */
+    color: #c0bda5;
+  }
+  
+  footer {
+    font-size: 1em; /* 16px/16=1em */
+    color: rgb(255,56,100);
   }
