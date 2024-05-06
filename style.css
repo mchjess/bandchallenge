@@ -1,7 +1,16 @@
 body {
     background-color: rgb(2, 2, 74);
 }
-
-h1  {
-    color: bisque;
-}
+h1 {
+    font-size: 4.5em; /* 40px/16=2.5em */
+    color: rgb(243, 156, 107);
+  }
+  
+  h2 {
+    font-size: 2.875em; /* 30px/16=1.875em */
+    color: rgb(204,151,142);
+  }
+  
+  p {
+    font-size: 0.875em; /* 14px/16=0.875em */
+  }
